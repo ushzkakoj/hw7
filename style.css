@@ -1,0 +1,7 @@
+:root{
+    --link-color: red;
+}
+
+.li{
+    color: var(--link-color);
+}
